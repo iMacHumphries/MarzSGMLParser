@@ -1,0 +1,78 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		B560F01E1CBDC4AD000B3447 /* SGMLParser.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SGMLParser.h; sourceTree = "<group>"; };
+		B560F01F1CBDC4AD000B3447 /* SGMLParser.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SGMLParser.m; sourceTree = "<group>"; };
+		B560F0201CBDC4AD000B3447 /* Stack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Stack.h; sourceTree = "<group>"; };
+		B560F0211CBDC4AD000B3447 /* Stack.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Stack.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		B560F0171CBDC41B000B3447 = {
+			isa = PBXGroup;
+			children = (
+				B560F01E1CBDC4AD000B3447 /* SGMLParser.h */,
+				B560F01F1CBDC4AD000B3447 /* SGMLParser.m */,
+				B560F0201CBDC4AD000B3447 /* Stack.h */,
+				B560F0211CBDC4AD000B3447 /* Stack.m */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		B560F0181CBDC41B000B3447 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+			};
+			buildConfigurationList = B560F01B1CBDC41B000B3447 /* Build configuration list for PBXProject "MarzSGMLParser" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = B560F0171CBDC41B000B3447;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		B560F01C1CBDC41B000B3447 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		B560F01D1CBDC41B000B3447 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B560F01B1CBDC41B000B3447 /* Build configuration list for PBXProject "MarzSGMLParser" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B560F01C1CBDC41B000B3447 /* Debug */,
+				B560F01D1CBDC41B000B3447 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B560F0181CBDC41B000B3447 /* Project object */;
+}
